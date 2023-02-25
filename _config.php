@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://wordywelcomepostscript.shashankktiwari.repl.co"; // https://github.com/PSYCHO-BOTZ/AnimeWorldZ-api
+$api = "https://github.com/PSYCHO-BOTZ/AnimeWorldZ-api"; // https://github.com/PSYCHO-BOTZ/AnimeWorldZ-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
